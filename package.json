@@ -1,8 +1,8 @@
 {
   "name": "portfolio",
   "version": "1.0.0",
-  "description": "Bailly Louis's portfolio",
-  "author": "Bailly Louis",
+  "description": "MIMOUNI Daniel's portfolio",
+  "author": "MIMOUNI Daniel",
   "private": true,
   "scripts": {
     "dev": "nuxt",

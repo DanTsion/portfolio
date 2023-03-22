@@ -2,11 +2,11 @@ export default [
   {
     shortname: "SynApp",
     name: "SynApp",
-    subtitle: "CRM de gestion d'association venant en aide aux plus démunis",
+    subtitle: "synapp_subtitle",
     thumbnail: "/images/logo-Synapp.jpg",
     technos: ["NET Core 6", "Angular", "Postgresql", "Docker", "CI/CD"],
     // story: "cavity__story",
-    // code: "https://github.com/ninjinskii/Cavity",
+    // code: "https://github.com/DanTsion/Cavity",
     // demo: {
     //   video:
     //     "https://user-images.githubusercontent.com/31962617/167398025-647f7166-98ae-4355-858f-07b4c99b9e61.mp4",
@@ -40,10 +40,10 @@ export default [
     shortname: "package NPM",
     name: "Multi Search Pipe ",
     subtitle: "Pipe de multi recherche écrit en Angular",
-    thumbnail: "/images/logo-grtw.png",
+    thumbnail: null,
     technos: ["Angular", "Typescript"],
     story: "multi__search__story",
-    code: "https://github.com/ninjinskii/GinkoRealTimeWidget",
+    code: "https://github.com/DanTsion/multi-search-pipe",
     demo: null,
     playstore: null,
   },

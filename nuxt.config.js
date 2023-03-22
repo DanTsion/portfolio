@@ -9,7 +9,7 @@ module.exports = {
     VERSION: version,
   },
   head: {
-    title: "Bailly Louis | Portfolio",
+    title: "MIMOUNI Daniel | Portfolio",
     meta: [
       { charset: "utf-8" },
       {
@@ -19,7 +19,7 @@ module.exports = {
       {
         hid: "description",
         name: "description",
-        content: "Bailly Louis's portfolio",
+        content: "MIMOUNI Daniel's portfolio",
       },
       {
         name: "og:image",

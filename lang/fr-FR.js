@@ -42,7 +42,7 @@ export default {
   multi__search__story: "Un package NPM qui permet de faire des recherches multi critères dans une grappe d'objet venant d'une API. Registre NPM: https://www.npmjs.com/package/multi-search-pipe",
   grtw__subtitle: "Horaires en temps réel des bus de Besançon (25)",
   cavity__story: "Une application qui permet la gestion de son stock de vins, afin de toujours trouver la bonne bouteille pour chaque occasion.",
-  cavity__subtitle: "Gestionnaire de cave à vin",
+  synapp_subtitle: "CRM visant à aider les administrateurs d'association caritative à but non lucratif",
   cavity_backend__story: "Une API REST utilisée pour stocker les données des utilisateurs de l'application mobile Cavity et restaurer des sauvegardes de cave à vin sur différents appareils.",
   cavity_backend__subtitle: "Serveur de sauvegarde de données utilisateur",
 };

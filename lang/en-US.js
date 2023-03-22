@@ -41,7 +41,7 @@ export default {
   demo__no_video: "An error occured",
   multi__search__story: "An npm package that allow search with multi criteria in a object coming from an API. Npm Registery: https://www.npmjs.com/package/multi-search-pipe",
   grtw__subtitle: "Real time bus schedules for Besançon (25)",
-  cavity__story: "A stock management app for wine cellars, that lets you always pick the right bottle at the right time.",
+  synapp_subtitle: "CRM to assist not-for-profit charity trustees",
   cavity__subtitle: "Cellar manager",
   cavity_backend__story: "A REST API that allow to store Cavity user's data and get them back on any other device.",
   cavity_backend__subtitle: "User backup server",

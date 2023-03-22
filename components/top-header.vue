@@ -10,7 +10,7 @@
           <v-col v-ripple cols="4">
             <a
               class="text--primary"
-              href="https://github.com/ninjinskii"
+              href="https://github.com/DanTsion"
               target="blank"
             >
               <v-icon class="d-block mx-auto" x-large>{{ mdiGithub }}</v-icon>
@@ -18,7 +18,7 @@
             </a>
           </v-col>
           <v-col v-ripple cols="4">
-            <a class="text--primary" @click="openResume()">
+            <a class="text--primary" href="/resume/CV-MIMOUNIDaniel.pdf">
               <v-icon class="d-block mx-auto" x-large>{{
                 mdiFileOutline
               }}</v-icon>
