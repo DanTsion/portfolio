@@ -34,8 +34,26 @@
         >
           {{ $t(project.story) }}
         </p>
-        <v-btn class="mt-4" outlined :href="project.code" target="blank">
-          {{ $t("show__code") }}
+        <v-btn
+          v-if="project.code"
+          class="mt-4"
+          outlined
+          :href="project.code"
+          target="blank"
+        >
+          {{ $t("see__more") }}
+          <v-icon right>
+            {{ mdiOpenInNew }}
+          </v-icon>
+        </v-btn>
+        <v-btn
+          v-if="project.recette"
+          class="mt-4"
+          outlined
+          :href="project.recette"
+          target="blank"
+        >
+          {{ $t("see__recette") }}
           <v-icon right>
             {{ mdiOpenInNew }}
           </v-icon>

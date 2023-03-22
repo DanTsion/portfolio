@@ -118,7 +118,7 @@ export default {
     async onSubmit() {
       try {
         const response = await this.$axios.$post(
-          "https://formspree.io/f/mzbyodbp",
+          "https://formspree.io/f/mlekwldk",
           {
             fullName: this.fullName.substring(0, this.fullNameMaxSize),
             email: this.email.substring(0, this.emailMaxSize),

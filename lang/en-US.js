@@ -7,7 +7,8 @@ export default {
   home__resume: "Resume",
   home__title: "Software Developer",
   show__demo: "Demo",
-  show__code: "Code",
+  see__more: "See more",
+  see__recette: "Demo environment",
   show__playstore: "Google Play Store",
   form__success: "Message sent.",
   form__error: "An error occured.",
@@ -42,7 +43,7 @@ export default {
   multi__search__story: "An npm package that allow search with multi criteria in a object coming from an API. Npm Registery: https://www.npmjs.com/package/multi-search-pipe",
   grtw__subtitle: "Real time bus schedules for Besançon (25)",
   synapp_subtitle: "CRM to assist not-for-profit charity trustees",
-  cavity__subtitle: "Cellar manager",
+  synapp__story: "Web application allowing the management of a member database, and the organisation of the life around the association. In order to test the application, you can connect as an administrator via the user 'test@gmail.com' and the 'test' password, and use the same information to connect to the 'Member' part. Enjoy your visit!",
   cavity_backend__story: "A REST API that allow to store Cavity user's data and get them back on any other device.",
   cavity_backend__subtitle: "User backup server",
 };
