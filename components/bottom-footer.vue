@@ -3,7 +3,7 @@
     <v-divider />
     <v-footer padless color="#121212" elevation="0">
       <v-col class="text-center text-caption text--disabled" cols="12">
-        {{ new Date().getFullYear() }} — Bailly Louis
+        {{ new Date().getFullYear() }} — Daniel MIMOUNI
       </v-col>
     </v-footer>
   </div>

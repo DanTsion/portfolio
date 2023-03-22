@@ -39,7 +39,7 @@ export default {
   demo__show_stats: "Show stats",
   demo__delete_wine: "Remove a wine",
   demo__no_video: "An error occured",
-  grtw__story: "An app that allows you to store your daily bus paths, then showing bus schedules right in your phone's home screen.",
+  multi__search__story: "An npm package that allow search with multi criteria in a object coming from an API. Npm Registery: https://www.npmjs.com/package/multi-search-pipe",
   grtw__subtitle: "Real time bus schedules for Besançon (25)",
   cavity__story: "A stock management app for wine cellars, that lets you always pick the right bottle at the right time.",
   cavity__subtitle: "Cellar manager",

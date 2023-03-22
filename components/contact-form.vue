@@ -76,8 +76,8 @@
           <v-col>
             <p>
               {{ $t("form__email_me") }}
-              <a href="mailto:louis.bailly.pro@gmail.com"
-                >louis.bailly.pro@gmail.com</a
+              <a href="mailto:mimouni.daniel@gmail.com"
+                >mimouni.daniel@gmail.com</a
               >
             </p>
           </v-col>

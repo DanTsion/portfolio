@@ -39,7 +39,7 @@ export default {
   demo__show_stats: "Consulter les statistiques",
   demo__delete_wine: "Supprimer un vin",
   demo__no_video: "Impossible de lire la vidéo",
-  grtw__story: "Cette application permet d'enregistrer vos trajets quotidiens en bus pour ensuite afficher les temps de passage des bus directement sur votre écran d'accueil.",
+  multi__search__story: "Un package NPM qui permet de faire des recherches multi critères dans une grappe d'objet venant d'une API. Registre NPM: https://www.npmjs.com/package/multi-search-pipe",
   grtw__subtitle: "Horaires en temps réel des bus de Besançon (25)",
   cavity__story: "Une application qui permet la gestion de son stock de vins, afin de toujours trouver la bonne bouteille pour chaque occasion.",
   cavity__subtitle: "Gestionnaire de cave à vin",

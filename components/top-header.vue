@@ -2,7 +2,7 @@
   <v-container>
     <v-row>
       <v-col cols="12" md="8">
-        <h1>Bailly Louis</h1>
+        <h1>MIMOUNI Daniel</h1>
         <h3 class="text--disabled">{{ $t("home__title") }}</h3>
       </v-col>
       <v-col cols="12" md="4">
